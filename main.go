@@ -21,6 +21,10 @@ func main() {
 	// fmt.Println()
 	// fmt.Println("---- RunZeroValues -----")
 	// variables.RunZeroValues()
-	fmt.Println("---- RunIfElse -----")
-	controlflow.RunIfElse()
+	// fmt.Println("---- RunIfElse -----")
+	// controlflow.RunIfElse()
+	// fmt.Println("---- Run Switch Case  -----")
+	// controlflow.RunSwitchCase()
+	fmt.Println("---- Run Loop  -----")
+	controlflow.RunLoop()
 }
